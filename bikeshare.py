@@ -8,7 +8,9 @@ CITY_DATA = { 'chicago': 'chicago.csv',
 
 def get_filters():
     """
-    now i'm in doc branch
+      now i'm in doc branch & this update in refactoring (solve confilct here)
+ refactoring
+
     Asks user to specify a city, month, and day to analyze.
 
     Returns:
