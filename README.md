@@ -1,7 +1,7 @@
 >hi now i am in documentation branch & I am in refactoring branch now (solve conflict)
 merge 2 in one 
 
-## Exploring US Bike Share Data
+# Exploring US Bike Share Data
 In this project, I used Python to explore data related to the bike share systems of three major cities — Chicago, New York City, and Washington, DC. I wrote code to import the data and compute descriptive statistics. I also wrote a script that takes in raw input to create an interactive experience in the terminal.
 
 ## Datasets
